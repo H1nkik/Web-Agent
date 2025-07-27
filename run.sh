@@ -1,0 +1,1 @@
+python main.py --model_name qwen2.5
