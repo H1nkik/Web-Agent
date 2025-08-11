@@ -21,3 +21,7 @@ pip install bs4
 pip install datasets
 
 pip install Pillow
+
+pip install transformers
+
+pip install torch
