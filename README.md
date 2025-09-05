@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Code-Python-8A2BE2)
 
+- Dpendency
+
 Before installing seeact, please make sure you've installed playwright.
 
 On linux, please: playwright install  
