@@ -28,3 +28,7 @@ pip install Pillow
 pip install transformers
 
 pip install torch
+```
+- Benchmark
+
+  [Multimodal-Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)
