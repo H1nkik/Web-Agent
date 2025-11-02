@@ -34,3 +34,5 @@ pip install torch
 - Benchmark
 
   [Multimodal-Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)
+
+  [Lexical Semantic Comprehension Benchmark](https://github.com/jinyangwu/LeSC/tree/main)
