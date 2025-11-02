@@ -6,7 +6,7 @@
 
 Before installing seeact, please make sure you've installed playwright.
 
-On linux, please: playwright install  
+On linux, please: playwright install & playwright install-deps 
 
 ```bash
 conda create -n seeact python=3.11
