@@ -48,6 +48,8 @@ pip install requests
 pip install numpy
 
 pip install "httpx==0.27.0"
+
+pip install PyArrow
 ```
 
 - Benchmark
