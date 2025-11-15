@@ -42,7 +42,7 @@ conda create -n webvoyager python=3.10
 conda activate webvoyager
 
 pip install -r requirements.txt (WebVpyager's)
-
+```
 
 - Benchmark
 
