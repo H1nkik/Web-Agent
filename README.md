@@ -42,6 +42,12 @@ conda create -n webvoyager python=3.10
 conda activate webvoyager
 
 pip install -r requirements.txt (WebVpyager's)
+
+pip install requests
+
+pip install numpy
+
+pip install "httpx==0.27.0"
 ```
 
 - Benchmark
